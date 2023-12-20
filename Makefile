@@ -1,4 +1,4 @@
-DOCS=index papers teaching services bio academiclink
+DOCS=index papers teaching services bio academiclink projects patents group
 
 HDOCS=$(addsuffix .html, $(DOCS))
 PHDOCS=$(addprefix ./, $(HDOCS))
