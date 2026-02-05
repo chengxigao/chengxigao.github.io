@@ -11,7 +11,7 @@ body {
 	font-family: Georgia, serif;
 	padding-bottom: 8px;
 	margin: 0;
-	width: 880pt;
+	width: 90%;
 }
 
 #layout-menu {
@@ -296,6 +296,10 @@ span.error {
 span.comment, span.comment > *, span.string, span.string > * {
 	color: #606060;
 }
+
+
+
+
 
 @media print {
 	#layout-menu {
